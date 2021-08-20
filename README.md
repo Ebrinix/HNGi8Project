@@ -1,7 +1,4 @@
 
-
-https://user-images.githubusercontent.com/36702382/130226758-302c0f6e-7ba0-4361-b64b-9561389a7436.mp4
-
 # egorasapp
 
 A new Flutter project.
